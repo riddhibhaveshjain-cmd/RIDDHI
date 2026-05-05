@@ -14,19 +14,19 @@
 # print(r)
 # print(a.strip
 
-# l=["harry","Soham","Sachin","rahul"]
+l=["harry","Soham","Sachin","rahul"]
 
-# for i in l:
-#     if i.startswith("S"):
-#         print("hello"+i)
-# x=1
-# while x<11:
-#     print("n",*"x","=",x*1)
+for i in l:
+    if i.startswith("S"):
+        print("hello"+i)
+x=1
+while x<11:
+    print("n",*"x","=",x*1)
 
-factorial=5
-for i in range(1,6):
-    factorial*=i
-print(factorial)
+# factorial=5
+# for i in range(1,6):
+#     factorial*=i
+# print(factorial)
     
 
 
